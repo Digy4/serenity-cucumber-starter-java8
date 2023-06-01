@@ -13,7 +13,6 @@ TestNG and Selenium starter to use with DigyRunner
 - How to install maven https://maven.apache.org/install.html
 
 ### Clone the repository
-## Details steps available here - https://help.digy4.com/docs/digy-dashboard/digyrunner-integration/serenity-cucumber/
 ## Summary Steps
 - Try Digy4 Pre-Integrated StarterKit
 - Have you created an account with DigyDashboard? Please click https://dashboard.digy4.com to create one
@@ -27,6 +26,7 @@ TestNG and Selenium starter to use with DigyRunner
 - For digy4.client_id use the client ID and digy4.client_secret, use the client secret from above
 - `mvn clean install -Ddigy4.framework=serenity-cucumber -Ddigy4.teamName=Avengers -Ddigy4.projectName=Demo -Ddigy4.testType=WEB -Ddigy4.moduleName=LocalBrowser -Ddigy4.suiteName=integration -Ddigy4.threads=2 -Ddigy4.browser=chrome  -Ddigy4.cloudFarm=CUSTOM -Ddigy4.localBrowser=chrome -Ddigy4.client_id= -Ddigy4.client_secret=`
 - Once this has completed, you can see the results in the DigyDashboard https://dashboard.digy4.com
+- Details steps available here - https://help.digy4.com/docs/digy-dashboard/digyrunner-integration/serenity-cucumber/
 
 ## Configurations
 - Supply Hub URL for any remote/local selenium grid `digy4.hubUrl` in `src/test/resources/digy4.config.properties` file or pass it via command line -Ddigy4.hubUrl
