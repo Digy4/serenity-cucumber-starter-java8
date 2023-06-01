@@ -12,9 +12,7 @@ TestNG and Selenium starter to use with DigyRunner
 ## How to build and run using maven
 - How to install maven https://maven.apache.org/install.html
 
-### Clone the repository
-## Summary Steps
-- Try Digy4 Pre-Integrated StarterKit
+### Try Digy4 Pre-Integrated StarterKit and View Results Instantly in the Dashboard
 - Have you created an account with DigyDashboard? Please click https://dashboard.digy4.com to create one
 - Login to your account and click on Admin Panel -> Projects -> Add Project to the bottom left section of the dashboard
 - Add a Project name that (eg: Demo) and other details and submit it
