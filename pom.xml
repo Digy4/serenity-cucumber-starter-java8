@@ -15,7 +15,7 @@
         <encoding>UTF-8</encoding>
         <tags></tags>
         <webdriver.base.url></webdriver.base.url>
-        <digyrunner.version>0.0.74</digyrunner.version>
+        <digyrunner.version>0.0.76</digyrunner.version>
         <parallel.tests>10</parallel.tests>
     </properties>
     <dependencies>
