@@ -21,7 +21,7 @@
     <dependencies>
         <dependency>
             <groupId>com.digy4</groupId>
-            <artifactId>digy-runner-latest</artifactId>
+            <artifactId>digy-runner-core</artifactId>
             <version>${digyrunner.version}</version>
             <scope>compile</scope>
         </dependency>
