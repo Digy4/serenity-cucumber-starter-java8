@@ -1,7 +1,6 @@
-Feature: Search by keyword again
+Feature: Search by keyword
 
-  Scenario: Searching for a term again
+  Scenario: Searching for cucumber
     Given Sergey is researching things on the internet
     When he looks up "Cucumber"
     Then he should see information about "Cucumber"
-
