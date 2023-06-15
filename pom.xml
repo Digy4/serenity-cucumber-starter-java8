@@ -15,7 +15,7 @@
         <encoding>UTF-8</encoding>
         <tags></tags>
         <webdriver.base.url></webdriver.base.url>
-        <digyrunner.version>0.0.76</digyrunner.version>
+        <digyrunner.version>0.0.77</digyrunner.version>
         <parallel.tests>10</parallel.tests>
     </properties>
     <dependencies>
@@ -47,11 +47,6 @@
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-java</artifactId>
-            <version>4.8.2</version>
-        </dependency>
-        <dependency>
-            <groupId>org.seleniumhq.selenium</groupId>
-            <artifactId>selenium-http-jdk-client</artifactId>
             <version>4.8.2</version>
         </dependency>
         <dependency>
